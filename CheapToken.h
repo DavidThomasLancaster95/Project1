@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 
-
+//git comment made from CS computer
 class CheapToken {
 private:
 	std::string actualData;
